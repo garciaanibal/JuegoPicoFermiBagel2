@@ -1,0 +1,14 @@
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.csproj.AssemblyReference.cache
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.AssemblyInfoInputs.cache
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.AssemblyInfo.cs
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.csproj.CoreCompileInputs.cache
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\bin\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.exe
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\bin\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.deps.json
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\bin\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.runtimeconfig.json
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\bin\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.runtimeconfig.dev.json
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\bin\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.dll
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\bin\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.pdb
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.dll
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.pdb
+C:\Users\aniba\source\repos\JuegoPicoFermiBagel2\JuegoPicoFermiBagel2\obj\Debug\netcoreapp3.1\JuegoPicoFermiBagel2.genruntimeconfig.cache
