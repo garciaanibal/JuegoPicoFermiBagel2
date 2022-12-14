@@ -11,7 +11,6 @@ namespace JuegoPicoFermiBagel2
             int[] cifras = new int[3] { 5, 1, 2};
             int[] cifras2 = new int[3]; 
             bool bandera = false;
-         
             Console.WriteLine("Pico, Fermi, Bagels es un clásico juego de lógica, en el que la computadora piensa un número de 3 dígitos," +
                 " y el jugador trata de adivinar el número secreto. Después de cada intento la computadora te da pistas." +
                 "  \n1) Si la computadora dice BAGELS significa que ninguno de los dígitos es el numero secreto." +
@@ -19,13 +18,6 @@ namespace JuegoPicoFermiBagel2
                 " equivocada. \n3) Si la computadora dice FERMI, entonces uno de los dígitos es correcto y está en la posición correcta"
                 );
 
-            //reordenando valores de forma correcta
-
-            /*for (int j=0; j <cifras.Length ; j++) {
-
-                 Console.WriteLine(cifras2[j]);
-
-             }*/
             Console.WriteLine("");
             int cont2 = 0;
 
